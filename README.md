@@ -15,6 +15,7 @@ N/A
 ## Usage
 
 To use the quiz application, go to the link here:
+https://inputname-jy.github.io/Procrastination-List/
 
 
 To use the work day scheduler, type things to do or keep track off in the desired time blocks, and click the save button, next to the time block. This will save your input, so that you can view it later. The time blocks are color coded to indicate whether it is in the past, present, or future.
